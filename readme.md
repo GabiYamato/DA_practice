@@ -33,10 +33,10 @@ data_analysis_practice/
 
 👉 Goal: Learn to explore data, understand distributions, and spot patterns.
 
-* [ ] Histogram
-* [ ] Density Plot (KDE)
-* [ ] Rug Plot
-* [ ] Cumulative Distribution (CDF)
+* [x] Histogram
+* [x] Density Plot (KDE)
+* [x] Rug Plot
+* [x] Cumulative Distribution (CDF)
 * [ ] Scatterplot
 * [ ] Pairplot (scatter matrix)
 * [ ] Bubble chart
