@@ -1,1 +1,9 @@
 /Datasets
+
+._*
+.DS_Store
+*.ipynb_checkpoints
+.vscode
+.idea
+*.pyc
+__pycache__/
