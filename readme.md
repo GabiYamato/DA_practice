@@ -37,14 +37,12 @@ data_analysis_practice/
 * [x] Density Plot (KDE)
 * [x] Rug Plot
 * [x] Cumulative Distribution (CDF)
-* [ ] Scatterplot
-* [ ] Pairplot (scatter matrix)
-* [ ] Bubble chart
-* [ ] Hexbin plot
-* [ ] 3D Scatterplot
-* [ ] Boxplot
-* [ ] Violin plot
-* [ ] Strip plot
+* [x] Scatterplot
+* [x] Pairplot (scatter matrix)
+* [x] Bubble chart
+* [x] Hexbin plot
+* [x] Boxplot
+* [x] Strip plot
 * [ ] Swarm plot
 * [ ] Bar chart (stacked/grouped)
 * [ ] Count plot
