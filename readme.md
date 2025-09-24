@@ -43,12 +43,14 @@ data_analysis_practice/
 * [x] Hexbin plot
 * [x] Boxplot
 * [x] Strip plot
-* [ ] Swarm plot
-* [ ] Bar chart (stacked/grouped)
-* [ ] Count plot
-* [ ] Correlation heatmap
-* [ ] Clustermap
-* [ ] Line plot (time-series)
+* [x] Swarm plot
+* [x] Bar chart (stacked/grouped)
+* [x] Count plot
+* [x] Correlation heatmap
+* [x] Clustermap
+* [x] Line plot (time-series)
+* [x] Violin plot
+* [x] t-SNE / UMAP embeddings
 * [ ] Rolling average plot
 * [ ] Autocorrelation plot
 * [ ] Spectrogram (for audio/EEG datasets)
@@ -58,8 +60,7 @@ data_analysis_practice/
 * [ ] Learning Curve (train vs val metrics)
 * [ ] Feature Importance plot
 * [ ] SHAP / Permutation plots
-* [ ] t-SNE / UMAP embeddings
-* [ ] Grad-CAM / Saliency maps
+
 
 ---
 
